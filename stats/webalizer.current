@@ -1,0 +1,1928 @@
+# Webalizer V2.23-08 Incremental Data - 12/16/2023 01:42:48
+2023 12 16 1 42 48
+5725 5285 79 668 75 44 110852451 5003 162 0 0 0
+1 2 1639 13 16
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+4186 3809 71011547 44 3835 104 0 0
+619 598 16388815 18 450 30 0 0
+918 877 23436920 20 716 27 0 0
+2 1 15169 1 2 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+228 219 6567194 170 0 0
+26 24 174343 23 0 0
+408 397 12404453 286 0 0
+127 121 3430749 78 0 0
+5 4 15695 4 0 0
+35 35 113654 35 0 0
+4 4 8931 4 0 0
+6 6 1206 6 0 0
+256 241 8162215 184 0 0
+283 267 6271478 258 0 0
+6 6 1206 6 0 0
+52 50 1460513 42 0 0
+95 95 1152954 65 0 0
+0 0 0 0 0 0
+51 9 430762 31 0 0
+546 530 4764064 532 0 0
+1639 1484 17771093 1586 0 0
+1081 959 19499270 984 0 0
+778 741 21540327 663 0 0
+27 27 2334675 12 0 0
+7 4 63059 5 0 0
+40 37 2790021 18 0 0
+25 25 1894589 11 0 0
+0
+0
+0
+5285
+0
+0
+0
+0
+0
+3
+0
+89
+2
+251
+3
+0
+0
+0
+0
+0
+14
+39
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+39
+0
+0
+0
+0
+0
+# -urls- 
+/theme/image.php/boost/core/1702492711/spacer
+0 1 0 141 0 0 0 0
+/my/
+0 32 0 709757 1 0 0 0
+/theme/image.php/boost/mod_bigbluebuttonbn/1702492711/monologo
+0 1 0 689 0 0 0 0
+/theme/image.php/boost/repository_merlot/1702492359/icon
+0 1 0 2049 0 0 0 0
+/theme/image.php/boost/tiny_h5p/1702489260/icon
+0 1 0 854 0 0 0 0
+/theme/image.php/boost/theme/1702492711/mod/quiz/whitecircle
+0 1 0 441 0 0 0 0
+/admin/search.php
+0 64 0 1529126 0 1 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488866+831104.php
+0 1 0 93699 0 0 0 0
+/theme/image.php/boost/atto_h5p/1702492711/icon
+0 1 0 784 0 0 0 0
+/theme/image.php/boost/theme/1702495214/fp/path_folder
+0 1 0 301 0 0 0 0
+/theme/image.php/boost/core/1702495214/i/loading
+0 1 0 600 0 0 0 0
+/theme/image.php/boost/qtype_ddimageortext/1702492359/icon
+0 1 0 342 0 0 0 0
+/theme/image.php/boost/repository_onedrive/1702492359/icon
+0 1 0 649 0 0 0 0
+/course/editcategory.php
+0 10 0 274082 0 0 0 0
+/theme/image.php/boost/tiny_h5p/1702495214/icon
+0 1 0 784 0 0 0 0
+/theme/image.php/boost/qtype_match/1702492711/icon
+0 1 0 361 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702487676+960720.php
+0 1 0 92053 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488594+17005.php
+0 1 0 93693 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/blackeye
+0 1 0 694 0 0 0 0
+/theme/image.php/boost/survey/1702489260/monologo
+0 1 0 591 0 0 0 0
+/lib/javascript.php/1702492359/lib/javascript-static.js
+0 1 0 6584 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/skins/ui/oxide/skin.min.css
+0 1 0 11857 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/angry
+0 1 0 708 0 0 0 0
+/theme/image.php/boost/atto_recordrtc/1702492711/icon
+0 1 0 713 0 0 0 0
+/theme/image.php/boost/tool_usertours/1702492711/tour/tour_course_admin_1
+0 1 0 24632 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/thoughtful
+0 1 0 922 0 0 0 0
+/theme/image.php/academi/tiny_equation/1702495533/icon
+0 8 0 5768 0 0 0 0
+/theme/image.php
+0 37 0 1965556 2 1 0 0
+/admin/tool/uploaduser/example.csv
+0 1 0 248 0 0 0 0
+/theme/image.php/boost/core/1702492711/f/spreadsheet
+0 1 0 1982 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/pagebreak/plugin.js
+0 7 0 8752 0 0 0 0
+/theme/image.php/boost/repository_dropbox/1702492359/icon
+0 1 0 264 0 0 0 0
+/login/forgot_password.php
+0 5 0 34514 0 0 0 0
+/theme/image.php/boost/tool_usertours/1702489260/tour/tour_dashboard
+0 1 0 27271 0 0 0 0
+/theme/font.php/boost/core/1702492711/fa-regular-400.woff2
+0 1 0 25065 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/code/plugin.js
+0 1 0 731 0 0 0 0
+/theme/image.php/boost/mod_folder/1702492359/monologo
+0 1 0 544 1 0 0 0
+/theme/font.php/boost/core/1702495252/fa-solid-900.woff2
+0 1 0 150390 0 0 0 0
+/theme/image.php/boost/mod_quiz/1702492359/monologo
+0 1 0 615 1 0 0 0
+/theme/image.php/boost/qtype_ddmarker/1702492711/icon
+0 1 0 554 0 0 0 0
+/theme/image.php/academi/quiz/1702495533/monologo
+0 6 0 4117 0 0 0 0
+/theme/image.php/boost/repository_coursefiles/1702492359/icon
+0 1 0 1793 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/sad
+0 1 0 786 0 0 0 0
+/theme/image.php/boost/tiny_equation/1702492359/icon
+0 1 0 684 0 0 0 0
+/theme/image.php/academi/repository_contentbank/1702495252/icon
+0 1 0 859 0 0 0 0
+/draftfile.php/5/user/draft/618630604/httpsimg.pikbest.combackgrounds20220119cartoon-graduation-season-travel-hd-background_6234287.jpg!bwr800
+0 1 0 9162 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702487258+997844.php
+0 1 0 92054 0 0 0 0
+/lib/requirejs.php/1702492711/core/chartjs-lazy.js
+0 1 0 86355 0 0 0 0
+/lib/javascript.php/1702495214/repository/filepicker.js
+0 7 0 87735 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/groups
+0 1 0 520 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/smiley
+0 1 0 830 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/skins/ui/oxide/content.min.css
+0 1 0 5885 0 0 0 0
+/lib/yuilib/3.18.1/event-touch/event-touch-min.js
+0 2 0 1376 0 0 0 0
+/theme/image.php/boost/chat/1702489260/monologo
+0 1 0 785 0 0 0 0
+/enrol/
+0 5 0 39997 0 0 0 0
+/theme/image.php/boost/mod_glossary/1702492359/monologo
+0 1 0 581 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/wideeyes
+0 1 7597127704905672039 867 0 0 0 0
+/theme/image.php/academi/repository_url/1702495533/icon
+0 2 0 3681 0 0 0 0
+/lib/javascript.php/1702495214/lib/jquery/jquery-3.7.1.min.js
+0 17 0 535751 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/models/dom/model.js
+0 7 0 421604 0 0 0 0
+/theme/image.php/boost/core/1702492711/i/unflagged
+0 1 0 424 0 0 0 0
+/theme/image.php/boost/media_html5audio/1702492711/icon
+0 1 0 3897 0 0 0 0
+/theme/image.php/academi/repository_upload/1702495533/icon
+0 2 0 3612 0 0 0 0
+/theme/image.php/boost/repository_local/1702492711/icon
+0 1 0 1793 0 0 0 0
+/draftfile.php/5/user/draft/735028057/slide1image.jpg
+1 1 0 10381 0 0 0 0
+/theme/image.php/boost/page/1702492711/monologo
+0 2 0 1438 0 0 0 0
+/lib/requirejs.php/1702489260/tiny_html/codemirror-lazy.js
+0 1 0 201740 0 0 0 0
+/repository/draftfiles_ajax.php
+0 70 0 38345 0 0 0 0
+/theme/styles.php/boost/1702495248_1/all
+0 1 0 150690 1 0 0 0
+/mod/quiz/review.php
+0 3 0 61577 0 0 0 0
+/theme/styles.php/boost/1702495214_1/editor
+0 1 0 25598 0 0 0 0
+/theme/font.php
+0 25 0 3758458 3 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/visualblocks/plugin.js
+0 7 0 6282 0 0 0 0
+/lib/javascript.php/1702492359/lib/form/dndupload.js
+0 1 0 4395 0 0 0 0
+/lib/yuilib/3.18.1/event-tap/event-tap-min.js
+0 2 0 1884 0 0 0 0
+/theme/styles.php/boost/1702492359_1/all
+0 1 0 152123 0 0 0 0
+/theme/image.php/boost/tiny_recordrtc/1702492711/icon
+0 1 0 2869 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702489092+321801.php
+0 1 0 93699 0 0 0 0
+/lib/requirejs.php/1702495214/core/first.js
+0 17 0 10987573 0 0 0 0
+/theme/image.php/academi/core/1702495533//i/risk_personal
+0 1 0 503 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/save/plugin.js
+0 7 0 7581 0 0 0 0
+/lib/javascript.php/1702495214/lib/form/filepicker.js
+0 2 0 1649 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702492293+399266.php
+0 1 0 93712 0 0 0 0
+/theme/image.php/boost/qtype_essay/1702492711/icon
+0 1 0 469 0 0 0 0
+/theme/image.php/academi/tiny_recordrtc/1702495533/video
+0 7 0 5347 0 0 0 0
+/mod/book/edit.php
+0 3 0 88249 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/reload
+0 1 0 588 0 0 0 0
+/theme/image.php/academi/core/1702495533//i/risk_dataloss
+0 1 0 549 0 0 0 0
+/mod/quiz/view.php
+0 6 0 106108 0 0 0 0
+/theme/image.php/boost/mod_feedback/1702492359/monologo
+0 1 0 781 0 0 0 0
+/theme/image.php/boost/qtype_random/1702492359/icon
+0 1 0 826 0 0 0 0
+/theme/image.php/boost/core/1702492359/i/colourpicker
+0 1 0 1278 0 0 0 0
+/theme/image.php/boost/repository_upload/1702492711/icon
+0 1 0 1790 0 0 0 0
+/theme/image.php/boost/tiny_recordrtc/1702489260/audio
+0 1 0 731 0 0 0 0
+/theme/image.php/boost/qtype_match/1702492359/icon
+0 1 0 361 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/insertdatetime/plugin.js
+0 1 0 1849 0 0 0 0
+/lib/javascript.php/1702492358/lib/polyfills/polyfill.js
+0 1 0 60686 0 0 0 0
+/moodle/install.php
+0 1 0 4931 0 0 0 0
+/lib/requirejs.php/1702489260/core_form/events.js
+0 1 0 618784 0 0 0 0
+/lib/requirejs.php/1702492711/media_videojs/video-lazy.js
+0 1 0 197102 0 0 0 0
+/lib/javascript.php/1702492711/question/flags.js
+0 1 0 1191 0 0 0 0
+/admin/roles/assign.php
+0 4 0 70122 0 0 0 0
+/lib/javascript.php/1702492711/lib/form/url.js
+0 1 0 381 0 0 0 0
+/tes.php
+0 1 0 24279 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/skins/ui/oxide/content.min.css
+0 8 0 46609 0 0 0 0
+/admin/roles/permissions.php
+0 2 0 82281 1 0 0 0
+/lib/javascript.php/1702492711/lib/form/filemanager.js
+0 1 0 7637 0 0 0 0
+/theme/image.php/boost/core/1702492711//i/risk_spam
+0 1 0 484 0 0 0 0
+/theme/image.php/boost/theme/1702492711/mod/quiz/checkmark
+0 1 0 576 0 0 0 0
+/theme/image.php/boost/h5pactivity/1702489260/monologo
+0 1 0 875 0 0 0 0
+/theme/image.php/boost/block_timeline/1702492711/activities
+0 1 0 843 0 0 0 0
+/theme/image.php/academi/repository_user/1702495533/icon
+0 2 0 1583 0 0 0 0
+/theme/image.php/boost/qtype_missingtype/1702492359/icon
+0 1 0 356 0 0 0 0
+/theme/image.php/boost/block_timeline/1702489260/activities
+0 1 0 843 0 0 0 0
+/theme/font.php/boost/core/1702489201/fa-solid-900.woff2
+0 1 0 150308 0 0 0 0
+/lib/requirejs.php/1702492711/core_form/changechecker.js
+0 1 0 618707 0 0 0 0
+/theme/image.php/boost/core/1702495248/i/loading
+0 1 0 602 0 0 0 0
+/admin/settings.php
+0 22 0 498856 0 0 0 0
+/theme/image.php/academi/core/1702495252/i/loading
+0 1 0 603 0 0 0 0
+/theme/image.php/boost/repository_url/1702492359/icon
+0 1 0 1791 0 0 0 0
+/theme/image.php/boost/repository_youtube/1702492359/icon
+0 1 0 754 0 0 0 0
+/theme/image.php/boost/qtype_randomsamatch/1702492359/icon
+0 1 0 786 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/table/plugin.js
+0 1 0 23254 0 0 0 0
+/theme/image.php/boost/atto_h5p/1702492359/icon
+0 1 0 784 0 0 0 0
+/theme/image.php/boost/tiny_equation/1702495214/icon
+0 1 0 706 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/codesample/plugin.js
+0 1 0 20215 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/wink
+0 1 0 792 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/charmap/plugin.js
+0 1 0 6295 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/groupv
+0 1 0 567 0 0 0 0
+/lib/requirejs.php/1702495214/core_form/events.js
+0 6 0 3870457 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/help/js/i18n/keynav/en.js
+0 1 0 1178 0 0 0 0
+/theme/image.php/academi/theme/1702495252/favicon
+0 2 0 11116 0 0 0 0
+/lib/javascript.php/1702495214/user/selector/module.js
+0 1 0 2473 0 0 0 0
+/theme/image.php/boost/repository_user/1702492359/icon
+0 1 0 704 0 0 0 0
+/theme/image.php/boost/block_recentlyaccesseditems/1702489260/items
+0 1 0 743 0 0 0 0
+/theme/image.php/academi/repository_local/1702495533/icon
+0 2 0 3588 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/themes/silver/theme.js
+0 7 0 1574470 0 0 0 0
+/pluginfile.php/1/theme_academi/footerlogo/1702495533/footerlogo.png
+1 18 0 86361 0 0 0 0
+/theme/image.php/boost/theme/1702492711/favicon
+0 3 0 9508 0 0 0 0
+/install.php
+0 4 0 9877 0 0 0 0
+/pluginfile.php/1/theme_academi/logo/1702495252/logo.png
+1 2 0 7821 0 0 0 0
+/theme/image.php/boost/tiny_media/1702492711/icon
+0 1 0 417 0 0 0 0
+/theme/styles.php/boost/1702492692_1/all
+0 2 0 302675 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/lists/plugin.js
+0 7 0 101073 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/tinymce.js
+0 7 0 1713550 0 0 0 0
+/theme/image.php/boost/book/1702489260/monologo
+0 2 0 1734 0 0 0 0
+/lib/requirejs.php/1702489260/core/first.js
+0 3 0 1856196 0 0 0 0
+/theme/image.php/boost/mod_page/1702492359/monologo
+0 1 0 647 1 0 0 0
+/theme/font.php/academi/core/1702495252/fa-solid-900.woff2
+0 2 0 300633 0 0 0 0
+/theme/image.php/boost/mod_choice/1702492711/monologo
+0 1 0 896 0 0 0 0
+/theme/image.php/boost/core/1702489260/t/expanded
+0 1 0 404 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702487321+895866.php
+0 1 0 92054 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/groups
+0 1 0 833 0 0 0 0
+/theme/image.php/boost/mod_url/1702492711/monologo
+0 1 0 1053 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/searchreplace/plugin.js
+0 1 0 8650 0 0 0 0
+/lib/javascript.php/1702489260/course/format/topics/format.js
+0 1 0 738 0 0 0 0
+/theme/image.php/boost/block_myoverview/1702489260/courses
+0 1 0 978 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/quickbars/plugin.js
+0 7 0 25300 0 0 0 0
+/theme/image.php/boost/qtype_multianswer/1702492711/icon
+0 1 0 340 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/wordcount/plugin.js
+0 1 0 6603 0 0 0 0
+/admin/registration/check.php
+0 1 0 5965 0 0 0 0
+/lib/javascript.php/1702492692/lib/jquery/jquery-3.7.1.min.js
+0 1 0 30509 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/table/plugin.js
+0 7 0 162771 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/skins/ui/oxide/content.min.css
+0 1 0 5817 0 0 0 0
+/theme/image.php/boost/tiny_h5p/1702492359/icon
+0 1 0 784 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/skins/ui/oxide/skin.min.css
+0 7 0 83344 0 0 0 0
+/theme/image.php/boost/mod_quiz/1702492711/monologo
+0 1 0 615 0 0 0 0
+/theme/image.php/academi/repository_contentbank/1702495533/icon
+0 2 0 1408 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/pagebreak/plugin.js
+0 1 0 1247 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/visualchars/plugin.js
+0 1 0 4278 0 0 0 0
+/mod/quiz/report.php
+0 1 0 25916 0 0 0 0
+/theme/image.php/boost/repository_webdav/1702492359/icon
+0 1 0 1410 0 1 0 0
+/theme/font.php/boost/core/1702492692/fa-solid-900.woff2
+0 1 0 150386 0 0 0 0
+/theme/image.php/boost/mod_bigbluebuttonbn/1702492359/monologo
+0 1 0 548 0 0 0 0
+/theme/image.php/boost/url/1702489260/monologo
+0 1 0 1053 0 0 0 0
+/theme/image.php/academi/tiny_equation/1702495252/icon
+0 1 0 684 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/nonbreaking/plugin.js
+0 1 0 1210 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/cool
+0 1 0 767 0 0 0 0
+/theme/image.php/boost/forum/1702492711/monologo
+0 2 0 1822 0 0 0 0
+/theme/image.php/boost/qtype_calculatedmulti/1702492711/icon
+0 1 0 1024 0 0 0 0
+/theme/image.php/academi/theme/1702495533/fp/path_folder
+0 7 0 2733 0 0 0 0
+/theme/image.php/boost/repository_user/1702492711/icon
+0 1 0 704 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/approve
+0 1 0 717 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702487414+42028.php
+0 1 0 92048 0 0 0 0
+/theme/image.php/boost/core/1702492711/f/pdf
+0 1 0 1514 0 0 0 0
+/lib/requirejs.php/1702492711/tiny_html/codemirror-lazy.js
+0 1 0 201717 0 0 0 0
+/theme/image.php/boost/imscp/1702489260/monologo
+0 1 0 829 0 0 0 0
+/theme/image.php/academi/block_timeline/1702495533/activities
+0 8 0 6699 0 0 0 0
+/theme/image.php/boost/repository_filesystem/1702492359/icon
+0 1 0 494 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/tinymce.js
+0 1 0 244814 0 0 0 0
+/lib/javascript.php/1702492711/lib/form/filepicker.js
+0 1 0 755 0 0 0 0
+/user/
+0 10 0 240595 0 0 0 0
+/theme/image.php/boost/repository_flickr/1702492711/icon
+0 1 0 867 0 0 0 0
+/theme/image.php/boost/mod_folder/1702492711/monologo
+0 1 0 542 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/sleepy
+0 1 0 922 0 0 0 0
+/theme/image.php/boost/mod_lesson/1702492359/monologo
+0 1 0 844 0 0 0 0
+/lib/javascript.php/1702492692/lib/javascript-static.js
+0 1 0 6607 0 0 0 0
+/mod/assign/view.php
+0 3 0 56757 0 0 0 0
+/theme/image.php/academi/repository_url/1702495252/icon
+0 1 0 1791 0 0 0 0
+/pluginfile.php/1/theme_academi/logo/1702495533/logo.png
+1 18 0 86748 0 0 0 0
+/theme/image.php/boost/enrol_fee/1702492359/icon
+0 1 0 2167 0 0 0 0
+/lib/requirejs.php/1702495214/media_videojs/video-lazy.js
+0 5 0 985640 0 0 0 0
+/admin/plugins.php
+0 4 0 91316 0 0 0 0
+/theme/image.php/boost/mod_glossary/1702492711/monologo
+0 1 0 581 0 0 0 0
+/lib/javascript.php/1702492711/course/format/topics/format.js
+0 1 0 808 0 0 0 0
+/theme/image.php/boost/glossary/1702489260/monologo
+0 1 0 581 0 0 0 0
+/theme/image.php/boost/mod_scorm/1702492359/monologo
+0 1 0 558 0 0 0 0
+/theme/image.php/boost/tiny_recordrtc/1702492359/icon
+0 1 0 2870 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/dot
+0 1 0 373 0 0 0 0
+/theme/image.php/boost/mod_assign/1702492359/monologo
+0 1 0 795 0 0 0 0
+/lib/editor/tiny/lang.php/1702495214/en
+0 7 0 6037 1 0 0 0
+/theme/image.php/boost/scorm/1702489260/monologo
+0 1 0 558 0 0 0 0
+/theme/image.php/boost/core/1702492711/i/hide
+0 1 0 532 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/course
+0 1 0 626 0 0 0 0
+/admin/tool/uploaduser/
+0 2 0 48426 0 0 0 0
+/theme/image.php/boost/repository_url/1702492711/icon
+0 1 0 1791 0 0 0 0
+/theme/image.php/boost/tiny_recordrtc/1702492711/audio
+0 1 0 682 0 0 0 0
+/draftfile.php/5/user/draft/42955951/footerlogo.png
+1 1 0 1943 0 0 0 0
+/theme/font.php/academi/core/1702495533/fa-regular-400.woff2
+0 17 0 443000 0 0 0 0
+/theme/image.php/boost/media_vimeo/1702492359/icon
+0 1 0 3294 0 0 0 0
+/theme/image.php/boost/qtype_multichoice/1702492359/icon
+0 1 0 358 0 0 0 0
+/theme/image.php/boost/tiny_recordrtc/1702489260/video
+0 1 0 737 0 0 0 0
+/mod/page/view.php
+0 1 0 17178 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/table/plugin.js
+0 1 0 23253 0 0 0 0
+/theme/image.php/boost/theme/1702495252/favicon
+0 1 0 1286 0 0 0 0
+/lib/javascript.php/1702489260/lib/requirejs/require.min.js
+0 3 0 20273 0 0 0 0
+/grade/report/grader/
+0 6 0 149301 0 0 0 0
+/lib/requirejs.php/1702492692/core/first.js
+0 1 0 619563 0 0 0 0
+/lib/javascript.php/1702495213/lib/javascript-static.js
+0 1 0 6630 0 0 0 0
+/report/view.php
+0 4 0 78335 0 0 0 0
+/lib/javascript.php/1702489260/user/selector/module.js
+0 1 0 2473 0 0 0 0
+/lib/javascript.php/1702495214/lib/polyfills/polyfill.js
+0 18 0 1248462 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/visualblocks/plugin.js
+0 1 0 894 0 0 0 0
+/theme/image.php/boost/core/1702492711/i/configlock
+0 1 0 859 0 0 0 0
+/theme/image.php/boost/repository_merlot/1702492711/icon
+0 1 0 2048 0 0 0 0
+/lib/requirejs.php/1702492711/media_videojs/Youtube-lazy.js
+0 1 0 3801 0 0 0 0
+/mod/quiz/summary.php
+0 1 0 17306 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/save/plugin.js
+0 1 0 1083 0 0 0 0
+/course/category.ajax.php
+0 1 0 1221 0 0 0 0
+/lib/yuilib/3.18.1/event-resize/event-resize-min.js
+0 2 0 655 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/directionality/plugin.js
+0 7 0 22995 0 0 0 0
+/theme/image.php/boost/qtype_calculated/1702492359/icon
+0 1 0 1081 0 0 0 0
+/lib/javascript.php/1702495214/lib/requirejs/require.min.js
+0 18 0 150331 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/directionality/plugin.js
+0 1 0 3285 0 0 0 0
+/lib/javascript.php/1702492710/lib/javascript-static.js
+0 1 0 6584 0 0 0 0
+/repository/repository_ajax.php
+0 20 0 23224 2 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/help/js/i18n/keynav/en.js
+0 7 0 8545 0 0 0 0
+/theme/image.php/boost/qtype_shortanswer/1702492359/icon
+0 1 0 299 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/visualchars/plugin.js
+0 1 0 4279 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/models/dom/model.js
+0 1 0 60233 0 0 0 0
+/theme/image.php/boost/enrol_paypal/1702492359/icon
+0 1 0 601 0 0 0 0
+/lib/javascript.php/1702489260/lib/form/dndupload.js
+0 1 0 4394 0 0 0 0
+/theme/image.php/boost/tiny_accessibilitychecker/1702492359/icon
+0 1 0 1305 0 0 0 0
+/theme/image.php/boost/tool_usertours/1702492711/tour/tour_course_student
+0 1 0 11173 0 0 0 0
+/theme/image.php/boost/qtype_description/1702492359/icon
+0 1 0 484 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/codesample/plugin.js
+0 7 0 141590 0 0 0 0
+/lib/javascript.php/1702495214/course/format/topics/format.js
+0 5 0 3741 0 0 0 0
+/theme/image.php/academi/forum/1702495533/monologo
+0 8 0 6414 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/egg
+0 1 7882832571554424173 729 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/fullscreen/plugin.js
+0 7 0 63091 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/heart
+0 1 0 579 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/insertdatetime/plugin.js
+0 7 0 12943 0 0 0 0
+/theme/image.php/boost/core/1702489260/u/f1
+0 1 0 1308 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/lists/plugin.js
+0 1 0 14439 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/directionality/plugin.js
+0 1 0 3285 0 0 0 0
+/theme/font.php/boost/core/1702495248/fa-solid-900.woff2
+0 1 0 150373 0 0 0 0
+/lib/javascript.php/1702489260/admin/roles/module.js
+0 2 0 2761 0 0 0 0
+/theme/image.php/boost/core/1702492711/i/dot
+0 1 0 277 0 0 0 0
+/lib/yuilib/3.18.1/event-move/event-move-min.js
+0 2 0 3202 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/anchor/plugin.js
+0 1 0 2015 0 0 0 0
+/theme/styles.php/boost/1702489260_1/editor
+0 1 0 25597 0 0 0 0
+/theme/image.php/boost/core/1702492711/u/f2
+0 1 0 494 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/themes/silver/theme.js
+0 1 0 224931 0 0 0 0
+/theme/image.php/boost/wiki/1702489260/monologo
+0 1 0 1376 0 0 0 0
+/lib/javascript.php/1702492711/lib/jquery/jquery-3.7.1.min.js
+0 2 0 61018 0 0 0 0
+/theme/image.php/boost/mod_workshop/1702492711/monologo
+0 1 0 982 0 0 0 0
+/theme/image.php/academi/core/1702495533//i/risk_spam
+0 1 0 504 0 0 0 0
+/theme/image.php/boost/mod_resource/1702492711/monologo
+0 1 0 540 0 0 0 0
+/theme/image.php/boost/qtype_essay/1702492359/icon
+0 1 0 446 0 0 0 0
+/theme/image.php/academi/core/1702495252/f/image
+0 1 0 944 0 0 0 0
+/course/
+0 9 0 159151 0 0 0 0
+/theme/font.php/boost/core/1702492359/fa-solid-900.woff2
+0 1 0 150408 0 0 0 0
+/theme/image.php/academi/core/1702495533/u/f2
+0 1 0 1340 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/anchor/plugin.js
+0 1 0 1991 0 0 0 0
+/draftfile.php/5/user/draft/201358614/logo.png
+1 1 0 2090 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/biggrin
+0 1 0 827 0 0 0 0
+/theme/image.php/boost/mod_imscp/1702492711/monologo
+0 1 0 828 0 0 0 0
+/theme/image.php/boost/repository_s3/1702492711/icon
+0 1 0 426 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/fullscreen/plugin.js
+0 1 0 9013 0 0 0 0
+/theme/image.php/boost/qtype_truefalse/1702492359/icon
+0 1 0 288 0 0 0 0
+/theme/image.php/boost/tiny_equation/1702489260/icon
+0 1 0 684 0 0 0 0
+/theme/image.php/boost/tool_installaddon/1702492359/icon
+0 1 0 472 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/charmap/plugin.js
+0 1 0 6295 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/searchreplace/plugin.js
+0 1 0 8650 0 0 0 0
+/admin/
+0 58 0 758627 2 1 0 0
+/theme/styles.php
+0 26 0 3922028 2 1 0 0
+/lib/javascript.php/1702492711/mod/quiz/module.js
+0 1 0 2451 0 0 0 0
+/theme/image.php/boost/repository_contentbank/1702492711/icon
+0 1 0 704 0 0 0 0
+/lib/requirejs.php
+0 1432 0 2229151 41 40 0 0
+/theme/font.php/boost/core/1702495214/fa-regular-400.woff2
+0 1 0 25105 0 0 0 0
+/lib/javascript.php/1702492359/repository/filepicker.js
+0 1 0 12633 0 0 0 0
+/theme/styles.php/boost/1702492710_1/all
+0 1 0 150616 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/emoticons/js/emojis.js
+0 1 0 30778 0 0 0 0
+/backup/restorefile.php
+0 4 0 86331 0 0 0 0
+/theme/image.php/boost/repository_coursefiles/1702492711/icon
+0 1 0 1792 0 0 0 0
+/theme/font.php/boost/core/1702489260/fa-solid-900.woff2
+0 3 0 451200 0 0 0 0
+/theme/image.php/boost/mod_survey/1702492711/monologo
+0 1 0 591 0 0 0 0
+/lib/javascript.php/1702492359/lib/polyfills/polyfill.js
+0 1 0 60650 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/wordcount/plugin.js
+0 1 0 6603 0 0 0 0
+/lib/requirejs.php/1702492711/core_question/question_engine.js
+0 1 0 618670 0 0 0 0
+/mod/url/view.php
+0 42 0 715013 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/lists/plugin.js
+0 1 0 14439 0 0 0 0
+/theme/image.php/boost/page/1702489260/monologo
+0 1 0 693 0 0 0 0
+/lib/javascript.php/1702492711/lib/javascript-static.js
+0 2 0 13191 0 0 0 0
+/theme/image.php/boost/quiz/1702492711/monologo
+0 2 0 1230 0 0 0 0
+/theme/image.php/academi/theme/1702495533/favicon
+0 20 0 134254 2 2 0 0
+/theme/image.php/boost/tiny_equation/1702492711/icon
+0 1 0 684 0 0 0 0
+/theme/image.php/boost/repository_youtube/1702492711/icon
+0 1 0 754 0 0 0 0
+/theme/image.php/boost/repository_flickr_public/1702492359/icon
+0 1 0 960 0 0 0 0
+/theme/image.php/boost/media_videojs/1702492711/icon
+0 1 0 1026 0 0 0 0
+/theme/image.php/boost/qtype_truefalse/1702492711/icon
+0 1 0 289 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/tinymce.js
+0 1 0 244795 0 0 0 0
+/lib/yuilib/3.18.1/event-mousewheel/event-mousewheel-min.js
+0 2 0 657 0 0 0 0
+/theme/image.php/boost/enrol_fee/1702492711/icon
+0 1 0 2167 0 0 0 0
+/theme/image.php/academi/tiny_recordrtc/1702495533/audio
+0 7 0 4832 0 0 0 0
+/theme/font.php/boost/core/1702489260/fa-regular-400.woff2
+0 2 0 50239 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/help/plugin.js
+0 1 0 5572 0 0 0 0
+/admin/tool/installaddon/
+0 4 0 63761 1 0 0 0
+/lib/editor/tiny/lang.php/1702492711/en
+0 1 0 907 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/groupv
+0 1 0 702 0 0 0 0
+/moodle/pix/moodlelogo.png
+1 1 0 17388 0 0 0 0
+/theme/image.php/boost/repository_areafiles/1702492711/icon
+0 1 0 226 0 0 0 0
+/install/css.php
+0 4 0 476814 0 0 0 0
+/theme/image.php/academi/repository_wikimedia/1702495252/icon
+0 1 0 1020 0 0 0 0
+/theme/image.php/boost/mod_survey/1702492359/monologo
+0 1 0 590 0 0 0 0
+/lib/javascript.php/1702492711/repository/filepicker.js
+0 1 0 12607 0 0 0 0
+/theme/image.php/boost/mod_forum/1702492711/monologo
+0 1 0 766 0 0 0 0
+/theme/image.php/boost/repository_local/1702492359/icon
+0 1 0 1793 0 0 0 0
+/theme/font.php/academi/core/1702495252/fa-brands-400.woff2
+0 2 0 216467 0 0 0 0
+/theme/image.php/boost/block_recentlyaccesseditems/1702492711/items
+0 1 0 720 0 0 0 0
+/theme/image.php/boost/mod_lesson/1702492711/monologo
+0 1 0 845 0 0 0 0
+/admin/roles/manage.php
+0 1 0 18034 0 0 0 0
+/admin/tool/uploaduser/picture.php
+0 1 0 23419 0 0 0 0
+/lib/yuilib/3.18.1/event-flick/event-flick-min.js
+0 2 0 1956 0 0 0 0
+/theme/font.php/boost/core/1702489201/fa-regular-400.woff2
+0 1 0 25076 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/groupn
+0 1 0 558 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/nonbreaking/plugin.js
+0 7 0 8470 0 0 0 0
+/theme/image.php/boost/feedback/1702489260/monologo
+0 1 0 781 0 0 0 0
+/lib/javascript.php/1702489260/lib/form/filemanager.js
+0 1 0 7637 0 0 0 0
+/theme/image.php/boost/resource/1702489260/monologo
+0 1 0 540 0 0 0 0
+/lib/javascript.php/1702492710/lib/polyfills/polyfill.js
+0 1 0 60574 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/code/plugin.js
+0 7 0 5186 0 0 0 0
+/lib/javascript.php/1702495214/admin/roles/module.js
+0 1 0 1391 0 0 0 0
+/lib/javascript.php/1702489260/lib/jquery/jquery-3.7.1.min.js
+0 3 0 91481 0 0 0 0
+/theme/image.php/boost/mod_feedback/1702492711/monologo
+0 1 0 781 0 0 0 0
+/theme/image.php/boost/mod_assign/1702492711/monologo
+0 1 0 651 0 0 0 0
+/draftfile.php/5/user/draft/488877265/6454ac6195dd8.jpg
+1 1 0 4803 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/emoticons/plugin.js
+0 1 0 4491 0 0 0 0
+/draftfile.php/5/user/draft/581905403/mspotmedia.png
+1 1 0 11010 0 0 0 0
+/theme/image.php/boost/theme/1702489260/favicon
+0 3 0 4069 0 0 0 0
+/tokenpluginfile.php/ba81f6d8786e5d67c314c1cfaa9edb70/150/course/generated/course.svg
+0 2 0 9313 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/visualblocks/plugin.js
+0 1 0 894 0 0 0 0
+/.well-known/acme-challenge/KPocqUW9mwDmXwanIZ6jwSxQwgsR5hXpdsFb5uWfJKI
+0 3 0 954 0 0 0 0
+/mod/quiz/attempt.php
+0 8 0 145518 0 0 0 0
+/theme/image.php/academi/core/1702495533/u/f1
+0 3 0 4192 0 0 0 0
+/lib/javascript.php/1702495213/lib/polyfills/polyfill.js
+0 1 0 60677 0 0 0 0
+/theme/yui_combo.php
+0 238 0 3206024 2 11 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/pagebreak/plugin.js
+0 1 0 1247 0 0 0 0
+/theme/image.php/boost/qtype_calculatedmulti/1702492359/icon
+0 1 0 1025 0 0 0 0
+/lib/javascript.php/1702489260/lib/polyfills/polyfill.js
+0 3 0 181818 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/emoticons/plugin.js
+0 7 0 31437 0 0 0 0
+/theme/image.php/boost/tiny_noautolink/1702492711/icon
+0 1 0 350 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/no
+0 1 2318311803199179560 2493 0 0 0 0
+/theme/image.php/boost/repository_equella/1702492359/icon
+0 1 0 539 0 0 0 0
+/theme/image.php/boost/qtype_multichoice/1702492711/icon
+0 1 0 357 0 0 0 0
+/theme/image.php/boost/theme/1702495214/favicon
+0 1 0 1260 0 0 0 0
+/theme/image.php/boost/tiny_noautolink/1702492359/icon
+0 1 0 351 0 0 0 0
+/theme/image.php/boost/core/1702492359/i/loading
+0 1 0 602 0 0 0 0
+/theme/image.php/boost/repository_filesystem/1702492711/icon
+0 1 0 494 0 0 0 0
+/theme/image.php/boost/assign/1702489260/monologo
+0 1 0 651 0 0 0 0
+/theme/image.php/boost/repository_googledocs/1702492359/icon
+0 1 0 660 0 0 0 0
+/theme/image.php/boost/choice/1702489260/monologo
+0 1 0 897 0 0 0 0
+/theme/image.php/boost/data/1702489260/monologo
+0 1 0 922 0 0 0 0
+/lib/javascript.php/1702495214/lib/form/dndupload.js
+0 6 0 26659 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488762+394736.php
+0 1 0 93699 0 0 0 0
+/lib/javascript.php/1702492711/lib/requirejs/require.min.js
+0 2 0 13752 0 0 0 0
+/theme/image.php/boost/mod_page/1702492711/monologo
+0 1 0 647 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/anchor/plugin.js
+0 7 0 13645 0 0 0 0
+/theme/image.php/boost/mod_lti/1702492711/monologo
+0 1 0 862 0 0 0 0
+/theme/image.php/academi/repository_wikimedia/1702495533/icon
+0 2 0 2040 0 0 0 0
+/pluginfile.php/1/theme_academi/footerlogo/1702495252/footerlogo.png
+1 2 0 7737 0 0 0 0
+/pluginfile.php/1/theme_academi/slide1image/1702495533/httpsimg.pikbest.combackgrounds20220119cartoon-graduation-season-travel-hd-background_6234287.jpg!bwr800
+0 12 0 1192614 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488456+152802.php
+0 1 0 93699 0 0 0 0
+/theme/image.php/boost/theme/1702489260/fp/path_folder
+0 1 0 324 0 0 0 0
+/lib/requirejs.php/1702492711/core/first.js
+0 2 0 1237452 0 0 0 0
+/theme/image.php/boost/repository_contentbank/1702492359/icon
+0 1 0 704 0 0 0 0
+/admin/registration/confirmregistration.php
+0 1 0 16610 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/evil
+0 1 0 941 0 0 0 0
+/moodle/install/css.php
+0 1 0 119198 0 0 0 0
+/theme/image.php/boost/tool_usertours/1702489260/tour/tour_mycourses
+0 1 0 26039 0 0 0 0
+/my/courses.php
+0 40 0 713032 1 0 0 0
+/theme/image.php/boost/media_videojs/1702492359/icon
+0 1 0 995 0 0 0 0
+/theme/image.php/boost/media_html5video/1702492359/icon
+0 1 0 237 0 0 0 0
+/grade/report/overview/
+0 2 0 34140 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/charmap/plugin.js
+0 7 0 44092 0 0 0 0
+/course/edit.php
+0 11 0 449354 1 0 0 0
+/lib/editor/tiny/loader.php/1702495214/icons/default/icons.js
+0 7 0 121883 0 0 0 0
+/theme/image.php/academi/assign/1702495533/monologo
+0 5 0 3692 0 0 0 0
+/admin/tool/uploadcourse/
+0 2 0 48330 0 0 0 0
+/theme/image.php/academi/core/1702495533/f/pdf
+0 5 0 7456 0 0 0 0
+/theme/image.php/boost/media_html5audio/1702492359/icon
+0 1 0 3898 0 0 0 0
+/theme/font.php/boost/core/1702495214/fa-solid-900.woff2
+0 1 0 150321 0 0 0 0
+/theme/image.php/academi/book/1702495533/monologo
+0 3 0 2509 0 1 0 0
+/theme/image.php/boost/enrol_paypal/1702492711/icon
+0 1 0 600 0 0 0 0
+/lib/editor/tiny/lang.php/1702489260/en
+0 1 0 811 0 0 0 0
+/lib/javascript.php/1702492711/question/qengine.js
+0 1 0 1267 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/help/js/i18n/keynav/en.js
+0 1 0 1178 0 0 0 0
+/theme/image.php/boost/mod_workshop/1702492359/monologo
+0 1 0 982 0 0 0 0
+/mod/book/tool/importhtml/
+0 1 0 22825 0 0 0 0
+/theme/styles.php/academi/1702495252_1/editor
+0 1 0 25641 0 0 0 0
+/theme/styles.php/boost/1702495252_1/all
+0 2 0 302760 0 0 0 0
+/theme/image.php/academi/repository_recent/1702495533/icon
+0 2 0 3631 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/mixed
+0 1 0 831 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/loading_small
+0 1 0 581 0 0 0 0
+/theme/image.php/boost/workshop/1702489260/monologo
+0 1 0 982 0 0 0 0
+/lib/javascript.php/1702489260/lib/javascript-static.js
+0 3 0 19980 0 0 0 0
+/draftfile.php/5/user/draft/69748207/logo.png
+1 1 0 2060 0 0 0 0
+/theme/image.php/academi/core/1702495533//i/risk_managetrust
+0 1 0 474 0 1 0 0
+/theme/image.php/academi/core/1702495252/i/colourpicker
+0 1 0 1278 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/clown
+0 1 0 939 0 0 0 0
+/theme/image.php/boost/folder/1702489260/monologo
+0 1 0 542 0 0 0 0
+/enrol/manual/ajax.php
+0 6 0 1144 0 0 0 0
+/admin/user/user_bulk_confirm.php
+0 2 0 33114 0 0 0 0
+/theme/image.php/academi/repository_areafiles/1702495533/icon
+0 1 0 257 0 0 0 0
+/admin/upgradesettings.php
+0 3 0 56075 3 0 0 0
+/pluginfile.php/25/course/overviewfiles/6454ac6195dd8.jpg
+1 17 0 6050479 0 0 0 0
+/theme/image.php/boost/core/1702492711/u/f1
+0 1 0 1283 0 0 0 0
+/theme/image.php/academi/repository_upload/1702495252/icon
+0 1 0 1821 0 0 0 0
+/course/pending.php
+0 1 0 17757 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/show
+0 2 0 1223 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702492236+374223.php
+0 1 0 93686 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/quickbars/plugin.js
+0 1 0 3611 0 0 0 0
+/lib/requirejs.php/1702492711/core_form/events.js
+0 1 0 618802 0 0 0 0
+/theme/font.php/boost/core/1702492359/fa-regular-400.woff2
+0 1 0 25065 0 0 0 0
+/tokenpluginfile.php/ba81f6d8786e5d67c314c1cfaa9edb70/25/course/generated/course.svg
+0 3 0 14784 0 0 0 0
+/theme/image.php/boost/mod_choice/1702492359/monologo
+0 1 0 896 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/visualchars/plugin.js
+0 7 0 29946 0 0 0 0
+/theme/image.php/academi/page/1702495533/monologo
+0 2 0 1440 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/help/plugin.js
+0 7 0 39020 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/models/dom/model.js
+0 1 0 60223 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488569+545803.php
+0 1 0 93699 0 0 0 0
+/theme/image.php/boost/core/1702492711//i/risk_personal
+0 1 0 484 0 0 0 0
+/theme/image.php/boost/core/1702495214/f/image
+0 1 0 944 0 0 0 0
+/theme/image.php/boost/core/1702492711/i/reload
+0 1 0 610 0 0 0 0
+/theme/image.php/boost/core/1702495214/i/colourpicker
+0 1 0 1347 0 0 0 0
+/lib/requirejs.php/1702492359/core/first.js
+0 1 0 619617 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/hide
+0 1 0 603 0 0 0 0
+/theme/image.php/academi/repository_local/1702495252/icon
+0 1 0 1793 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/quickbars/plugin.js
+0 1 0 3611 0 0 0 0
+/theme/image.php/boost/qtype_missingtype/1702492711/icon
+0 1 0 356 0 0 0 0
+/theme/image.php/boost/mod_imscp/1702492359/monologo
+0 1 0 828 0 0 0 0
+/theme/image.php/boost/repository_nextcloud/1702492359/icon
+0 1 0 657 0 0 0 0
+/theme/image.php/boost/mod_book/1702492359/monologo
+0 1 0 716 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/hide
+0 2 0 1129 0 0 0 0
+/theme/image.php/boost/qtype_ddwtos/1702492359/icon
+0 1 0 528 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/emoticons/js/emojis.js
+0 7 0 215453 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702487749+514208.php
+0 1 0 92054 0 0 0 0
+/theme/image.php/boost/mod_data/1702492711/monologo
+0 1 0 876 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/martin
+0 1 5551312301095268398 1179 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488436+995030.php
+0 1 0 93699 0 0 0 0
+/course/switchrole.php
+0 3 0 52260 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/insertdatetime/plugin.js
+0 1 0 1849 0 0 0 0
+/theme/image.php/boost/theme/1702492692/favicon
+0 1 0 1341 0 0 0 0
+/theme/image.php/boost/lesson/1702489260/monologo
+0 1 0 844 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/surprise
+0 1 0 804 0 0 0 0
+/theme/styles.php/boost/1702489260_1/all
+0 4 0 607004 0 0 0 0
+/draftfile.php/5/user/draft/7177640/logo.png
+1 1 0 2065 0 0 0 0
+/theme/styles.php/boost/1702495214_1/all
+0 1 0 152028 0 0 0 0
+/theme/image.php/boost/mod_resource/1702492359/monologo
+0 1 0 541 0 0 0 0
+/theme/image.php/boost/media_youtube/1702492359/icon
+0 1 0 416 0 0 0 0
+/theme/image.php/boost/tool_usertours/1702489260/tour/tour_course_admin_1
+0 1 0 24633 0 0 0 0
+/draftfile.php/5/user/draft/653016204/httpsimg.pikbest.combackgrounds20220119cartoon-graduation-season-travel-hd-background_6234287.jpg!bwr800
+0 1 0 9204 0 0 0 0
+/theme/image.php/boost/repository_webdav/1702492711/icon
+0 1 0 1410 0 0 0 0
+/theme/image.php/boost/gradingform_rubric/1702492359/icon
+0 1 0 423 0 1 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/searchreplace/plugin.js
+0 7 0 60596 0 0 0 0
+/theme/image.php/academi/theme/1702495533/no-image
+0 13 0 117290 1 0 0 0
+/theme/image.php/boost/tool_usertours/1702492711/tour/tour_mycourses
+0 1 0 26097 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/agg_sum
+0 4 0 2238 0 0 0 0
+/theme/image.php/boost/core/1702489260/spacer
+0 1 0 248 0 0 0 0
+/lib/javascript.php/1702489260/lib/form/filepicker.js
+0 1 0 836 0 0 0 0
+/theme/image.php/boost/qtype_numerical/1702492359/icon
+0 1 0 604 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/show
+0 1 0 575 0 0 0 0
+/user/editadvanced.php
+0 14 0 557991 0 0 0 0
+/draftfile.php/5/user/draft/541380573/mspotmedia.png
+1 1 0 11010 0 0 0 0
+/theme/image.php/boost/media_youtube/1702492711/icon
+0 1 0 416 0 0 0 0
+/lib/javascript.php/1702492359/lib/form/filemanager.js
+0 1 0 7562 0 0 0 0
+/lib/javascript.php/1702492711/lib/form/dndupload.js
+0 1 0 4395 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/dead
+0 1 0 872 0 0 0 0
+/
+0 86 0 1618484 44 2 0 0
+/theme/image.php/boost/repository_recent/1702492359/icon
+0 1 0 1793 0 0 0 0
+/lib/javascript.php/1702495214/lib/form/url.js
+0 2 0 886 0 0 0 0
+/theme/image.php/boost/repository_s3/1702492359/icon
+0 1 0 427 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/tongueout
+0 1 0 909 0 0 0 0
+/theme/image.php/boost/core/1702492711/i/show
+0 1 0 623 0 0 0 0
+/theme/image.php/academi/theme/1702495252/fp/path_folder
+0 1 0 370 0 0 0 0
+/lib/javascript.php/1702492692/lib/requirejs/require.min.js
+0 1 0 6853 0 0 0 0
+/lib/javascript.php/1702492359/lib/jquery/jquery-3.7.1.min.js
+0 1 0 30509 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/save/plugin.js
+0 1 0 1083 0 0 0 0
+/theme/image.php/boost/theme/1702492359/favicon
+0 1 0 1260 0 0 0 0
+/theme/image.php/academi/tool_usertours/1702495533/tour/tour_grader_report_search
+0 1 0 4767 0 0 0 0
+/theme/image.php/boost/repository_nextcloud/1702492711/icon
+0 1 0 657 0 0 0 0
+/my/indexsys.php
+0 1 0 20273 0 0 0 0
+/admin/user/user_bulk.php
+0 7 0 212277 0 0 0 0
+/theme/image.php/boost/tiny_h5p/1702492711/icon
+0 1 0 784 0 0 0 0
+/pluginfile.php/1/theme_academi/slide1image/1702495252/slide1image.jpg
+1 1 0 7352162 0 0 0 0
+/lib/yuilib/3.18.1/event-valuechange/event-valuechange-min.js
+0 2 0 2738 0 0 0 0
+/theme/image.php/boost/tiny_recordrtc/1702492711/video
+0 1 0 737 0 0 0 0
+/admin/roles/admins.php
+0 2 0 36954 0 0 0 0
+/mod/book/view.php
+0 1 0 17144 0 0 0 0
+/theme/image.php/boost/mod_book/1702492711/monologo
+0 1 0 716 0 0 0 0
+/theme/image.php/boost/qtype_random/1702492711/icon
+0 1 0 825 0 0 0 0
+/lib/javascript.php/1702489260/lib/form/form.js
+0 1 0 2691 0 0 0 0
+/theme/image.php/boost/tool_usertours/1702492711/tour/tour_dashboard
+0 1 0 27339 0 0 0 0
+/lib/editor/tiny/loader.php/1702495214/plugins/wordcount/plugin.js
+0 7 0 46221 0 0 0 0
+/theme/font.php/academi/core/1702495252/fa-regular-400.woff2
+0 2 0 50190 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/codesample/plugin.js
+0 1 0 20214 0 0 0 0
+/theme/image.php/boost/theme/1702492711/fp/path_folder
+0 1 0 419 0 0 0 0
+/theme/image.php/academi/core/1702495533//i/risk_xss
+0 1 0 632 0 0 0 0
+/theme/image.php/boost/mod_wiki/1702492359/monologo
+0 1 0 1377 0 0 0 0
+/theme/image.php/boost/qtype_description/1702492711/icon
+0 1 0 483 0 0 0 0
+/theme/image.php/boost/mod_forum/1702492359/monologo
+0 1 0 766 0 0 0 0
+/theme/image.php/boost/qtype_randomsamatch/1702492711/icon
+0 1 0 787 0 0 0 0
+/theme/image.php/boost/label/1702489260/monologo
+0 1 0 978 0 0 0 0
+/theme/image.php/boost/assign/1702492711/monologo
+0 2 0 1302 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702487339+516300.php
+0 1 0 92054 0 0 0 0
+/theme/image.php/academi/core/1702495533/f/image
+0 1 0 944 0 0 0 0
+/lib/javascript.php/1702495214/lib/form/filemanager.js
+0 6 0 45390 0 0 0 0
+/theme/image.php/academi/repository_recent/1702495252/icon
+0 1 0 1839 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/colourpicker
+0 1 0 1339 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/nonbreaking/plugin.js
+0 1 0 1210 0 0 0 0
+/theme/image.php/boost/mod_label/1702492359/monologo
+0 1 0 977 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/icons/default/icons.js
+0 1 0 17404 0 0 0 0
+/theme/image.php/academi/url/1702495533/monologo
+0 10 0 11194 0 0 0 0
+/theme/image.php/boost/qtype_numerical/1702492711/icon
+0 1 0 604 0 0 0 0
+/theme/image.php/boost/qtype_shortanswer/1702492711/icon
+0 1 0 299 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/kiss
+0 1 7011295814851587104 1159 0 0 0 0
+/admin/roles/check.php
+0 1 0 17508 0 0 0 0
+/theme/styles.php/boost/1702492711_1/all
+0 2 0 304053 0 0 0 0
+/theme/image.php/boost/qtype_ddmarker/1702492359/icon
+0 1 0 553 0 0 0 0
+/theme/image.php/academi/core/1702495533/i/loading
+0 1 0 603 0 0 0 0
+/theme/image.php/boost/qtype_calculated/1702492711/icon
+0 1 0 990 1 0 0 0
+/theme/image.php/boost/repository_googledocs/1702492711/icon
+0 1 0 661 0 0 0 0
+/theme/image.php/boost/mod_h5pactivity/1702492711/monologo
+0 1 0 875 0 0 0 0
+/theme/image.php/boost/repository_areafiles/1702492359/icon
+0 1 0 234 0 0 0 0
+/user/profile.php
+0 4 0 68880 0 0 0 0
+/theme/styles.php/boost/1702495213_1/all
+0 1 0 150639 0 0 0 0
+/theme/image.php/boost/qtype_multianswer/1702492359/icon
+0 1 0 340 0 0 0 0
+/lib/javascript.php/1702492358/lib/javascript-static.js
+0 1 0 6584 0 0 0 0
+/lib/requirejs.php/1702495214/media_videojs/Youtube-lazy.js
+0 5 0 19000 0 0 0 0
+/theme/image.php/boost/repository_wikimedia/1702492711/icon
+0 1 0 1020 0 0 0 0
+/theme/image.php/boost/theme/1702492359/fp/path_folder
+0 1 0 370 0 0 0 0
+/theme/image.php/boost/repository_dropbox/1702492711/icon
+0 1 0 264 0 0 0 0
+/theme/image.php/boost/qtype_gapselect/1702492359/icon
+0 1 0 336 0 0 0 0
+/theme/image.php/academi/repository_user/1702495252/icon
+0 1 0 705 0 0 0 0
+/theme/image.php/boost/core/1702492359/spacer
+0 1 0 133 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488124+217076.php
+0 1 0 93699 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/shy
+0 1 753071342738367846 803 0 0 0 0
+/theme/image.php/academi/tiny_h5p/1702495533/icon
+0 8 0 6457 0 0 0 0
+/pix/moodlelogo.png
+1 1 0 17411 0 0 0 0
+/theme/image.php/boost/url/1702492711/monologo
+0 2 0 2250 0 0 0 0
+/theme/image.php/boost/forum/1702489260/monologo
+0 2 0 1697 0 0 0 0
+/theme/image.php/boost/repository_equella/1702492711/icon
+0 1 0 539 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/emoticons/js/emojis.js
+0 1 0 30801 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702492145+711029.php
+0 1 0 93686 0 0 0 0
+/theme/image.php/boost/tool_installaddon/1702492711/icon
+0 1 0 518 1 0 0 0
+/draftfile.php/5/user/draft/721597973/footerlogo.png
+1 1 0 1966 0 0 0 0
+/admin/registration/
+0 3 0 85521 0 0 0 0
+/theme/styles.php/academi/1702495533_1/all
+0 17 0 2908785 1 0 0 0
+/theme/image.php/boost/repository_flickr_public/1702492711/icon
+0 1 0 960 0 0 0 0
+/lib/javascript.php
+0 118 0 3379372 0 5 0 0
+/theme/image.php/boost/tiny_media/1702492359/icon
+0 1 0 417 0 0 0 0
+/theme/font.php/academi/core/1702495533/fa-brands-400.woff2
+0 17 0 1856904 0 0 0 0
+/theme/image.php/boost/mod_url/1702492359/monologo
+0 1 0 1052 0 0 0 0
+/theme/image.php/boost/mod_data/1702492359/monologo
+0 1 0 876 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/fullscreen/plugin.js
+0 1 0 9013 0 0 0 0
+/theme/
+0 5 0 85188 0 0 0 0
+/theme/image.php/boost/mod_chat/1702492711/monologo
+0 1 0 785 0 0 0 0
+/theme/image.php/boost/forum/1702492359/monologo
+0 1 0 837 0 0 0 0
+/theme/image.php/boost/repository_flickr/1702492359/icon
+0 1 0 867 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/code/plugin.js
+0 1 0 730 0 0 0 0
+/theme/image.php/boost/gradingform_guide/1702492711/icon
+0 1 0 423 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/plugins/emoticons/plugin.js
+0 1 0 4491 0 0 0 0
+/draftfile.php/5/user/draft/357421013/mspotmedia.png
+1 1 0 10987 0 0 0 0
+/login/change_password.php
+0 1 0 10324 1 0 0 0
+/lib/editor/tiny/loader.php/1702489260/icons/default/icons.js
+0 1 0 17472 0 0 0 0
+/backup/restore.php
+0 18 0 462256 1 0 0 0
+/lib/editor/tiny/loader.php/1702489260/themes/silver/theme.js
+0 1 0 224932 0 0 0 0
+/theme/styles.php/academi/1702495533_1/editor
+0 8 0 204835 0 0 0 0
+/theme/image.php/boost/mod_chat/1702492359/monologo
+0 1 0 785 0 0 0 0
+/theme/image.php/boost/mod_wiki/1702492711/monologo
+0 1 0 1376 0 0 0 0
+/theme/image.php/boost/qtype_ddimageortext/1702492711/icon
+0 1 0 342 0 0 0 0
+/theme/image.php/boost/theme/1702492710/favicon
+0 1 0 1206 0 0 0 0
+/theme/styles.php/boost/1702492711_1/editor
+0 1 0 25622 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/yes
+0 1 0 1819 0 0 0 0
+/theme/image.php/boost/qtype_gapselect/1702492711/icon
+0 1 0 290 0 0 0 0
+/theme/academi/style/slick.css
+0 17 0 16038 0 0 0 0
+/lib/javascript.php/1702495214/lib/javascript-static.js
+0 18 0 150729 0 0 0 0
+/theme/image.php/boost/theme/1702492358/favicon
+0 1 0 1248 0 0 0 0
+/theme/styles.php/academi/1702495252_1/all
+0 2 0 340030 1 0 0 0
+/theme/image.php/boost/repository_upload/1702492359/icon
+0 1 0 1791 0 0 0 0
+/theme/image.php/boost/block_timeline/1702492359/activities
+0 1 0 819 0 0 0 0
+/theme/academi/style/animate.css
+0 17 0 84252 0 0 0 0
+/lib/javascript.php/1702492711/lib/form/form.js
+0 1 0 2596 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702489145+388493.php
+0 1 0 93699 0 1 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488699+645041.php
+0 1 0 93699 0 0 0 0
+/theme/image.php/boost/gradingform_rubric/1702492711/icon
+0 1 0 425 0 0 0 0
+/lib/requirejs.php/1702495214/tiny_html/codemirror-lazy.js
+0 7 0 1411892 0 0 0 0
+/lib/javascript.php/1702495214/lib/form/form.js
+0 7 0 18455 0 0 0 0
+/theme/image.php/academi/theme/1702495252/no-image
+0 1 0 8624 0 0 0 0
+/theme/image.php/academi/tiny_h5p/1702495252/icon
+0 1 0 805 0 0 0 0
+/theme/image.php/boost/mod_label/1702492711/monologo
+0 1 0 977 0 0 0 0
+/lib/javascript.php/1702492711/lib/polyfills/polyfill.js
+0 2 0 121171 0 0 0 0
+/theme/image.php/boost/theme/1702495248/favicon
+0 1 0 1329 0 0 0 0
+/theme/image.php/boost/media_vimeo/1702492711/icon
+0 1 0 3294 0 0 0 0
+/admin/user.php
+0 7 0 202244 0 0 0 0
+/theme/image.php/boost/mod_scorm/1702492711/monologo
+0 1 0 558 0 0 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702488009+406420.php
+0 1 0 92038 0 0 0 0
+/mod/forum/view.php
+0 4 0 125677 0 0 0 0
+/theme/image.php/academi/core/1702495533/t/collapsed
+0 1 0 523 0 0 0 0
+/draftfile.php/5/user/draft/653016204/slide1image.jpg
+1 1 0 10318 0 0 0 0
+/theme/image.php/boost/qtype_ddwtos/1702492711/icon
+0 1 0 481 0 0 0 0
+/theme/styles.php/boost/1702492358_1/all
+0 1 0 150639 0 0 0 0
+/theme/image.php/boost/repository_recent/1702492711/icon
+0 1 0 1793 0 0 0 0
+/course/view.php
+0 48 0 2321214 0 0 0 0
+/login/
+0 55 0 419776 13 2 0 0
+/course/management.php
+0 28 0 598220 0 0 0 0
+/theme/image.php/boost/core/1702489260/i/groupn
+0 1 0 736 0 0 0 0
+/theme/image.php/academi/core/1702495533/s/blush
+0 1 0 867 0 0 0 0
+/lib/ajax/service.php
+0 750 0 5359095 10 7 0 0
+/theme/image.php/boost/gradingform_guide/1702492359/icon
+0 1 0 424 0 1 0 0
+/theme/image.php/boost/repository_wikimedia/1702492359/icon
+0 1 0 1020 0 0 0 0
+/theme/font.php/academi/core/1702495533/fa-solid-900.woff2
+0 17 0 2573632 0 0 0 0
+/lib/editor/tiny/loader.php/1702492711/plugins/help/plugin.js
+0 1 0 5572 0 0 0 0
+/theme/image.php/boost/tiny_accessibilitychecker/1702492711/icon
+0 1 0 1304 0 0 0 0
+/theme/image.php/academi/core/1702495533/f/spreadsheet
+0 4 0 8043 0 0 0 0
+/course/modedit.php
+0 20 0 842797 0 0 0 0
+/theme/image.php/boost/qtype_calculatedsimple/1702492359/icon
+0 1 0 1354 0 0 0 0
+/lib/ajax/service-nologin.php
+0 637 0 3373811 19 16 0 0
+/theme/image.php/boost/quiz/1702489260/monologo
+0 1 0 615 0 0 0 0
+/lib/javascript.php/1702492711/admin/roles/module.js
+0 1 0 1322 0 0 0 0
+/theme/font.php/boost/core/1702492711/fa-solid-900.woff2
+0 2 0 300784 0 0 0 0
+/lib/javascript.php/1702489260/repository/filepicker.js
+0 1 0 12508 0 0 0 0
+/theme/image.php/boost/core/1702489260/t/collapsed
+0 1 0 500 0 0 0 0
+/theme/image.php/boost/mod_lti/1702492359/monologo
+0 1 0 862 0 0 0 0
+/lib/requirejs.php/1702492711/core/scroll_manager.js
+0 1 0 618793 0 0 0 0
+/theme/image.php/boost/qtype_calculatedsimple/1702492711/icon
+0 1 0 1353 0 0 0 0
+/theme/image.php/academi/core/1702495533//i/risk_config
+0 1 0 621 0 0 0 0
+/draftfile.php/5/user/draft/930130078/footerlogo.png
+1 1 0 1989 0 0 0 0
+/theme/image.php/boost/media_html5video/1702492711/icon
+0 1 0 237 0 0 0 0
+/lib/editor/tiny/loader.php/1702489260/skins/ui/oxide/skin.min.css
+0 1 0 11862 0 0 0 0
+/lib/yuilib/3.18.1/event-hover/event-hover-min.js
+0 2 0 804 0 0 0 0
+/lib/javascript.php/1702492359/lib/requirejs/require.min.js
+0 1 0 6726 0 0 0 0
+/theme/image.php/boost/core/1702495248/f/image
+0 1 0 943 0 0 0 0
+/theme/image.php/boost/atto_recordrtc/1702492359/icon
+0 1 0 742 0 0 0 0
+/theme/image.php/boost/core/1702492711//i/risk_xss
+0 1 0 566 0 0 0 0
+/theme/image.php/boost/repository_onedrive/1702492711/icon
+0 1 0 648 0 0 0 0
+/theme/image.php/boost/mod_h5pactivity/1702492359/monologo
+0 1 0 875 0 0 0 0
+/lib/javascript.php/1702492692/lib/polyfills/polyfill.js
+0 1 0 60619 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.87.85.78
+0 133 131 2581448 8 1702560955 0 0
+/lib/ajax/service.php
+69.63.189.10
+0 1 1 4008 0 0 0 0
+-
+103.208.95.130
+0 187 184 4992378 3 1702526132 0 0
+/grade/report/overview/
+198.74.55.230
+0 25 25 1894589 1 1702511413 0 0
+/lib/ajax/service-nologin.php
+180.242.129.45
+0 3828 3639 59175291 68 1702496683 0 0
+/lib/ajax/service.php
+146.190.52.250
+0 2 1 15169 1 1702690968 0 0
+/
+5.164.29.116
+0 5 2 29041 2 1702530012 0 0
+/
+182.3.43.43
+0 6 6 52265 1 1702612336 0 0
+/my/courses.php
+34.254.53.125
+0 21 20 1201982 1 1702493435 0 0
+/theme/image.php/boost/theme/1702492711/favicon
+182.3.42.143
+0 1 1 33213 1 1702612337 0 0
+/lib/ajax/service.php
+114.124.130.52
+0 29 28 1911753 1 1702550107 0 0
+/lib/ajax/service-nologin.php
+125.166.12.144
+0 200 184 3254871 3 1702635368 0 0
+/lib/ajax/service-nologin.php
+182.3.43.55
+0 70 70 1129448 2 1702612196 0 0
+/lib/ajax/service-nologin.php
+18.216.139.75
+0 1 1 14809 1 1702560496 0 0
+/
+129.153.125.162
+0 13 6 79653 4 1702659498 0 0
+/theme/image.php/academi/theme/1702495533/favicon
+133.242.174.119
+0 2 1 13078 1 1702493478 0 0
+/
+114.124.131.52
+0 1 1 9235 1 1702550126 0 0
+/
+45.79.221.160
+0 1 1 14719 1 1702578779 0 0
+/
+199.45.154.19
+0 7 4 63059 1 1702503049 0 0
+/theme/image.php/academi/theme/1702495533/favicon
+31.13.127.117
+0 2 2 157272 0 0 0 0
+-
+87.236.176.13
+0 2 1 15170 1 1702616265 0 0
+/
+104.248.203.191
+0 1 0 275 0 0 0 0
+-
+45.142.95.202
+0 1 0 285 1 1702482900 0 0
+/
+31.13.115.119
+0 1 1 8654 1 1702506206 0 0
+/theme/image.php/academi/theme/1702495533/no-image
+31.13.127.10
+0 3 3 34171 1 1702506174 0 0
+/lib/ajax/service.php
+47.251.14.232
+0 2 1 19035 1 1702525977 0 0
+/
+112.215.171.197
+0 1 1 8382 1 1702545067 0 0
+/login/
+36.85.109.185
+0 251 238 5732750 3 1702656287 0 0
+/lib/ajax/service.php
+31.13.127.26
+0 1 1 419 1 1702506177 0 0
+/lib/ajax/service-nologin.php
+36.71.117.71
+0 224 218 5412491 5 1702522426 0 0
+/lib/ajax/service-nologin.php
+104.131.1.32
+0 17 0 8410 1 1702482705 0 0
+/
+192.53.171.56
+0 1 1 12598 1 1702492340 0 0
+/
+182.3.42.115
+0 11 9 43861 1 1702612143 0 0
+/theme/image.php/academi/forum/1702495533/monologo
+52.31.34.236
+0 2 2 18400 1 1702490416 0 0
+/admin/registration/check.php
+45.55.112.20
+0 1 1 14092 1 1702550088 0 0
+/
+51.79.173.82
+0 172 40 3091993 3 1702492296 0 0
+/file----phpinfo-edubridge.teknix.my.id-1702492293+399266.php
+182.3.42.155
+0 25 25 1565495 1 1702612353 0 0
+/lib/ajax/service-nologin.php
+31.13.127.4
+0 1 1 352 1 1702506177 0 0
+/lib/ajax/service-nologin.php
+182.1.89.40
+0 60 57 2170932 1 1702612223 0 0
+/lib/ajax/service-nologin.php
+35.163.186.198
+0 1 1 318 0 0 0 0
+-
+87.236.176.215
+0 1 1 5662 1 1702616267 0 0
+/theme/image.php/academi/theme/1702495533/favicon
+31.13.127.24
+0 1 1 98958 0 0 0 0
+-
+154.47.29.17
+0 2 1 57749 1 1702482713 0 0
+/
+3.21.103.89
+0 1 1 318 0 0 0 0
+-
+34.245.128.38
+0 1 1 330 1 1702489546 0 0
+/
+31.13.127.13
+0 2 2 232762 1 1702506176 0 0
+/lib/ajax/service-nologin.php
+3.135.86.180
+0 1 1 14810 1 1702560517 0 0
+/
+182.3.42.127
+0 21 21 904267 1 1702612176 0 0
+/lib/ajax/service-nologin.php
+65.21.65.198
+0 1 1 57240 1 1702482750 0 0
+/
+216.194.80.156
+0 1 0 285 1 1702482895 0 0
+/
+18.202.80.223
+0 5 1 2088 1 1702494651 0 0
+-
+171.244.43.14
+0 2 1 15146 1 1702504927 0 0
+/
+31.13.127.11
+0 4 3 134042 1 1702506168 0 0
+/theme/yui_combo.php
+159.223.102.13
+0 17 3 241598 1 1702482711 0 0
+/
+110.50.80.198
+0 20 20 1463881 1 1702611982 0 0
+/lib/ajax/service-nologin.php
+31.13.127.17
+0 1 1 291 1 1702506163 0 0
+/theme/yui_combo.php
+31.13.127.116
+0 2 2 9472 1 1702506174 0 0
+/theme/yui_combo.php
+31.13.127.119
+0 1 1 17989 0 0 0 0
+-
+31.13.127.16
+0 1 1 45037 1 1702506201 0 0
+/
+31.13.127.21
+0 2 1 2859 1 1702506185 0 0
+/lib/ajax/service-nologin.php
+35.238.12.167
+0 2 0 5416 1 1702482810 0 0
+/
+87.236.176.135
+0 1 0 275 0 0 0 0
+-
+47.254.16.187
+0 1 0 4851 0 0 0 0
+-
+65.154.226.169
+0 2 1 15169 1 1702525176 0 0
+/
+87.236.176.114
+0 1 1 14719 1 1702577155 0 0
+/
+38.132.118.67
+0 27 27 2334675 1 1702498066 0 0
+/lib/ajax/service-nologin.php
+173.252.87.2
+0 1 1 99010 0 0 0 0
+-
+172.104.233.239
+0 1 1 14721 1 1702665077 0 0
+/
+31.13.127.12
+0 4 4 71742 1 1702506167 0 0
+/theme/yui_combo.php
+122.144.3.5
+0 225 222 4827334 6 1702648513 0 0
+/lib/ajax/service.php
+103.220.22.116
+0 25 25 2037822 1 1702632492 0 0
+/lib/ajax/service-nologin.php
+110.50.80.197
+0 21 20 1470904 1 1702633485 0 0
+/lib/ajax/service-nologin.php
+87.236.176.94
+0 1 1 5661 1 1702577158 0 0
+/theme/image.php/academi/theme/1702495533/favicon
+31.13.127.23
+0 4 4 206462 1 1702506170 0 0
+/theme/image.php/academi/theme/1702495533/no-image
+168.151.100.160
+0 1 0 491 1 1702482899 0 0
+/
+23.178.112.204
+0 1 1 318 0 0 0 0
+-
+182.3.42.131
+0 1 1 1358 1 1702612177 0 0
+/lib/ajax/service-nologin.php
+173.252.107.4
+0 1 1 431786 0 0 0 0
+-
+31.13.127.7
+0 5 5 1219589 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+146.190.52.250
+0 2 1 15169 1 1702690968 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://edubridge.teknix.my.id/mod/quiz/view.php
+0 14
+https://edubridge.teknix.my.id/mod/book/view.php
+0 1
+https://edubridge.teknix.my.id/theme/styles.php/boost/1702489260_1/all
+0 7
+https://edubridge.teknix.my.id/my/index.php
+0 107
+https://edubridge.teknix.my.id/theme/styles.php/boost/1702495214_1/all
+0 3
+https://edubridge.teknix.my.id/my/indexsys.php
+0 4
+https://edubridge.teknix.my.id/enrol/index.php
+0 6
+https://edubridge.teknix.my.id/admin/search.php
+0 304
+https://edubridge.teknix.my.id/mod/quiz/summary.php
+0 4
+https://edubridge.teknix.my.id/admin/tool/uploadcourse/index.php
+0 11
+https://edubridge.teknix.my.id/admin/upgradesettings.php
+0 143
+https://edubridge.teknix.my.id/index.php
+0 1
+https://edubridge.teknix.my.id/mod/book/edit.php
+0 29
+https://edubridge.teknix.my.id/admin/roles/permissions.php
+0 14
+https://edubridge.teknix.my.id/backup/restorefile.php
+0 12
+https://edubridge.teknix.my.id/admin/registration/index.php
+0 6
+https://edubridge.teknix.my.id/course/editcategory.php
+0 39
+https://edubridge.teknix.my.id/mod/page/view.php
+0 2
+http://edubridge.teknix.my.id
+0 2
+https://edubridge.teknix.my.id/course/
+0 5
+https://edubridge.teknix.my.id/admin/roles/manage.php
+0 1
+https://edubridge.teknix.my.id/mod/book/tool/importhtml/index.php
+0 3
+https://edubridge.teknix.my.id/admin/tool/uploaduser/picture.php
+0 2
+https://edubridge.teknix.my.id/course/view.php
+0 282
+https://edubridge.teknix.my.id/theme/styles.php/academi/1702495533_1/all
+0 55
+https://edubridge.teknix.my.id/theme/index.php
+0 26
+https://edubridge.teknix.my.id/theme/styles.php/academi/1702495252_1/all
+0 7
+https://edubridge.teknix.my.id/my/
+0 253
+https://edubridge.teknix.my.id/theme/styles.php
+0 26
+https://edubridge.teknix.my.id/course/switchrole.php
+0 9
+https://edubridge.teknix.my.id/admin/user/user_bulk_confirm.php
+0 2
+https://edubridge.teknix.my.id/theme/styles.php/boost/1702492359_1/all
+0 3
+https://edubridge.teknix.my.id/course/management.php
+0 34
+https://edubridge.teknix.my.id/mod/url/view.php
+0 97
+https://edubridge.teknix.my.id/mod/assign/view.php
+0 7
+https://www.google.com/
+0 4
+- (Direct Request)
+0 394
+https://edubridge.teknix.my.id/theme/styles.php/boost/1702495252_1/all
+0 2
+https://edubridge.teknix.my.id/theme/styles.php/boost/1702492711_1/all
+0 6
+https://edubridge.teknix.my.id/mod/quiz/report.php
+0 3
+https://edubridge.teknix.my.id/login/change_password.php
+0 1
+https://edubridge.teknix.my.id/admin/settings.php
+0 140
+https://edubridge.teknix.my.id/admin/roles/assign.php
+0 8
+https://edubridge.teknix.my.id/mod/forum/view.php
+0 88
+https://edubridge.teknix.my.id/grade/report/grader/index.php
+0 50
+https://edubridge.teknix.my.id/admin/user/user_bulk.php
+0 9
+https://edubridge.teknix.my.id/user/editadvanced.php
+0 147
+https://edubridge.teknix.my.id/course/index.php
+0 10
+51.79.173.82
+0 1
+https://edubridge.teknix.my.id/install.php
+0 11
+https://edubridge.teknix.my.id/admin/plugins.php
+0 189
+https://edubridge.teknix.my.id/admin/registration/confirmregistration.php
+0 1
+https://edubridge.teknix.my.id/admin/index.php
+0 1764
+https://edubridge.teknix.my.id/mod/quiz/startattempt.php
+0 2
+https://edubridge.teknix.my.id/admin/roles/admins.php
+0 13
+https://edubridge.teknix.my.id/mod/quiz/attempt.php
+0 26
+https://edubridge.teknix.my.id/grade/report/overview/index.php
+0 4
+https://edubridge.teknix.my.id/moodle/install.php
+0 3
+https://edubridge.teknix.my.id/user/index.php
+0 79
+https://edubridge.teknix.my.id/admin/tool/installaddon/index.php
+0 16
+https://edubridge.teknix.my.id/my/courses.php
+0 179
+https://edubridge.teknix.my.id/course/modedit.php
+0 192
+https://edubridge.teknix.my.id/login/forgot_password.php
+0 5
+https://edubridge.teknix.my.id/user/profile.php
+0 9
+https://edubridge.teknix.my.id/course/pending.php
+0 1
+https://edubridge.teknix.my.id/admin/tool/uploaduser/index.php
+0 4
+https://edubridge.teknix.my.id/login/index.php
+0 269
+https://edubridge.teknix.my.id/course/edit.php
+0 227
+https://edubridge.teknix.my.id
+0 1
+https://edubridge.teknix.my.id/theme/styles.php/boost/1702492692_1/all
+0 1
+https://edubridge.teknix.my.id/backup/restore.php
+0 27
+https://edubridge.teknix.my.id/
+0 297
+https://edubridge.teknix.my.id/report/view.php
+0 6
+https://edubridge.teknix.my.id/mod/quiz/review.php
+0 6
+https://edubridge.teknix.my.id/admin/user.php
+0 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 46
+WhatsApp/2.23.23.79 i
+0 6
+Mozilla/5.0 (l9scan/2.0.2383e2337313e29373e21353; +https://leakix.net)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/120.0.6099.101 Mobile/1
+0 73
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 7
+MoodleBot-LinkChecker (+https://docs.moodle.org/en/Usage)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0
+0 12
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 4475
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 (scanner.duck
+0 5
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA63164) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.8608.98 Mobile
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 7
+cortex/1.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+0 611
+Go-http-client/1.1
+0 31
+Python/3.9 aiohttp/3.9.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+0 2
+Instagram 55.0.0 Android
+0 26
+MoodleBot/4.3 (+https://stats.moodle.org)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0
+0 2
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 13; SM-A135F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.109 Safari/537.36
+0 27
+WhatsApp/2.23.20.0
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.2; Trident/3.1)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 20
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 1
+Webmin
+0 172
+WhatsApp/2.2348.4 W
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/120.0.6099.28 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0
+0 17
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+0 30
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+0 59
+MoodleBot/3.9 (+https://apps.moodle.com)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/117.0.5938.92 Safari/537.36
+0 25
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 5.1; en-US; rv:1.9.1.20) Gecko/20110227 Firefox/37.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
