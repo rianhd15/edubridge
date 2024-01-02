@@ -6,10 +6,10 @@ $CFG = new stdClass();
 
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';
-$CFG->dbhost    = 'localhost';
+$CFG->dbhost    = 'db-edubridge.c90swo60sgca.ap-southeast-1.rds.amazonaws.com';
 $CFG->dbname    = 'edubridge';
 $CFG->dbuser    = 'edubridge';
-$CFG->dbpass    = 'edubridge123';
+$CFG->dbpass    = 'Infinite01';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -18,11 +18,14 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_0900_ai_ci',
 );
 
-$CFG->wwwroot   = 'https://edubridge.teknix.my.id';
-$CFG->dataroot  = '/home/edubridge/moodledata';
+$CFG->wwwroot   = 'https://elearning.edubridgeinfinite.my.id';
+$CFG->dataroot  = '/var/www/html/moodledata';
+//$CFG->sslproxy  = true;
+//$CFG->dataroot  = '/var/www/data-moodle-s3';
 $CFG->admin     = 'admin';
 //$CFG->theme = 'boost';
 $CFG->directorypermissions = 0777;
+//$CFG->forced_plugin_settings['tool_httpsreplace'] = ["renames" => json_encode(["www.example.com" => "secure.example.com"])];
 
 require_once(__DIR__ . '/lib/setup.php');
 
